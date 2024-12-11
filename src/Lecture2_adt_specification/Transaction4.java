@@ -1,9 +1,9 @@
 package Lecture2_adt_specification;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 //import java.util.Date;
+
+import Lecture1_adt.NotNull;
 
 /**
  * In Addition to the Design considerations in Transaction4 class:

@@ -82,6 +82,7 @@ public class Main {
     /*
     Testing Transaction3 class
      */
+    @SuppressWarnings("unused")
     public static void testTransaction3() {
 
         List<Transaction3> allPaymentsIn2024 = makeYearOfPayments(1000);

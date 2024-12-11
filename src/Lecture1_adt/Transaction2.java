@@ -1,9 +1,9 @@
 package Lecture1_adt;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 //import java.util.Date;
+
+import Lecture4_interfaces_abstract_classes.NotNull;
 
 /**
  * This Lecture1_adt.Transaction2 Class Takes the first step to resolves the ADT design issues of Transaction1:
